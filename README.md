@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Rachakonda Saikumar
 - 👀 interested in Web Development
-- 🌱 currently learning React.js
-- 💞️ looking to collaborate on frontend Web development Projects
-- 📫 How to reach me saikumarrachakonda305@gmail.com
+
