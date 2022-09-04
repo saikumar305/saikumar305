@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Rachakonda Saikumar
-- 🧑‍💻 Web Developmer
+- 🧑‍💻 Web Developer
 
