@@ -8,7 +8,6 @@ Web developer
 *   🌍  I'm based in Telangana, India
 *   ✉️  You can contact me at [saikumarrachakonda305@gmail.com](mailto:saikumarrachakonda305@gmail.com)
 *   🧠  I'm learning Three.js , fastApi , web3
-*   🤝  I'm open to collaborating on 3d web development
 ### Socials
                   
 <p align="left">
