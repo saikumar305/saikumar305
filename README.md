@@ -8,7 +8,7 @@ Currently Learning more about Data Analysis and NLP.
 
 -------------
 
-*   🧑🏻‍💻  Working as a Full Stack Engineer at [Storable India](https://storable.com/)
+*   🧑🏻‍💻  Working as a Software Engineer II at [Storable India](https://storable.com/)
 *   🌍  I'm based in Telangana, India
 *   👨  Ask me anything about React, Python, Web development , Gen AI
 *   🧠  I'm learning Machine Learning, NLP, Agentic Development
