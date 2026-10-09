@@ -8,10 +8,10 @@ Currently Learning more about Data Analysis and NLP.
 
 -------------
 
-*   🧑🏻‍💻  Working as a Full Stack Engineer at [Exponential AI](https://exponentialai.com/)
+*   🧑🏻‍💻  Working as a Full Stack Engineer at [Storable India](https://storable.com/)
 *   🌍  I'm based in Telangana, India
-*   👨  Ask me anything about React, Python, Web development
-*   🧠  I'm learning Machine Learning, NLP
+*   👨  Ask me anything about React, Python, Web development , Gen AI
+*   🧠  I'm learning Machine Learning, NLP, Agentic Development
 *   ✉️   You can contact me at [saikumarrachakonda305@gmail.com](mailto:saikumarrachakonda305@gmail.com)
 
 # 💻 Tech Stack:
